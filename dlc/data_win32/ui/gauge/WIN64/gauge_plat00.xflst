@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xflst>
+<xfbin name="gauge_plat00.xfbin">
+Z:\char\x\gauge\tex\ps3\duel_gauge_button00.tex.xfbin
+Z:\char\x\gauge\anm\ps3\duel_gauge_button_a_onoff.anm.xfbin
+Z:\char\x\gauge\anm\ps3\duel_gauge_button_b_onoff.anm.xfbin
+Z:\char\x\gauge\anm\ps3\duel_gauge_button_c_onoff.anm.xfbin
+Z:\char\x\gauge\anm\ps3\duel_gauge_button_d_onoff.anm.xfbin
+Z:\char\x\gauge\anm\ps3\duel_gauge_button_l1_onoff.anm.xfbin
+Z:\char\x\gauge\anm\ps3\duel_gauge_button_l2_onoff.anm.xfbin
+Z:\char\x\gauge\anm\ps3\duel_gauge_button_r1_onoff.anm.xfbin
+Z:\char\x\gauge\anm\ps3\duel_gauge_button_r2_onoff.anm.xfbin
+Z:\char\x\gauge\max\ps3\duel_gauge_button01.mdl.xfbin
+</xfbin>
+</xflst>
